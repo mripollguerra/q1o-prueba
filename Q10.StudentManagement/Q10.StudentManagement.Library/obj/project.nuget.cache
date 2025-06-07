@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u9XvxwVSyss=",
+  "dgSpecHash": "zhJHETzwI30=",
   "success": true,
-  "projectFilePath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj",
+  "projectFilePath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj",
   "expectedPackageFiles": [
     "/Users/usuario/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/usuario/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

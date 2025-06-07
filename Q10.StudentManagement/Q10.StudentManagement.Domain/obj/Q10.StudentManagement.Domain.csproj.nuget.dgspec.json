@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj": {}
+    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj": {}
   },
   "projects": {
-    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj": {
+    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj",
+        "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj",
         "projectName": "Q10.StudentManagement.Domain",
-        "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj",
+        "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj",
         "packagesPath": "/Users/usuario/.nuget/packages/",
-        "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/obj/",
+        "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/usuario/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
-                "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj"
+              "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
+                "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
+    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj",
+        "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj",
         "projectName": "Q10.StudentManagement.Library",
-        "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj",
+        "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj",
         "packagesPath": "/Users/usuario/.nuget/packages/",
-        "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/obj/",
+        "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/usuario/.nuget/NuGet/NuGet.Config"

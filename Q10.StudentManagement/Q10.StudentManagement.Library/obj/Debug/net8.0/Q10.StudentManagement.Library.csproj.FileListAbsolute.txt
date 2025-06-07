@@ -23,3 +23,16 @@
 /Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/refint/Q10.StudentManagement.Library.dll
 /Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.pdb
 /Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/ref/Q10.StudentManagement.Library.dll
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/bin/Debug/net8.0/Q10.StudentManagement.Library.deps.json
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/bin/Debug/net8.0/Q10.StudentManagement.Library.dll
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/bin/Debug/net8.0/Q10.StudentManagement.Library.pdb
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.csproj.AssemblyReference.cache
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.AssemblyInfoInputs.cache
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.AssemblyInfo.cs
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.sourcelink.json
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.dll
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/refint/Q10.StudentManagement.Library.dll
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/Q10.StudentManagement.Library.pdb
+/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/obj/Debug/net8.0/ref/Q10.StudentManagement.Library.dll

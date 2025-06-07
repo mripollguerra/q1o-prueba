@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Q10.StudentManagement.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca648b48f22367ea407019d02be40994262fad90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2a7eaadf20f4eadc32bf382cf3e7787e12178db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Q10.StudentManagement.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Q10.StudentManagement.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

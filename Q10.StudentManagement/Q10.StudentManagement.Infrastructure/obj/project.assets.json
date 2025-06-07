@@ -3056,11 +3056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Infrastructure/Q10.StudentManagement.Infrastructure.csproj",
+      "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Infrastructure/Q10.StudentManagement.Infrastructure.csproj",
       "projectName": "Q10.StudentManagement.Infrastructure",
-      "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Infrastructure/Q10.StudentManagement.Infrastructure.csproj",
+      "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Infrastructure/Q10.StudentManagement.Infrastructure.csproj",
       "packagesPath": "/Users/usuario/.nuget/packages/",
-      "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Infrastructure/obj/",
+      "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/usuario/.nuget/NuGet/NuGet.Config"
@@ -3075,11 +3075,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj": {
-              "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj"
+            "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj": {
+              "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj"
             },
-            "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
-              "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj"
+            "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
+              "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-ssh/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj"
             }
           }
         }
