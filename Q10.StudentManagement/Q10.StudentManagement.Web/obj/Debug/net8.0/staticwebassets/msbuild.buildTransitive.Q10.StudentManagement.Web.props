@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Q10.StudentManagement.Web.props" />
+</Project>

@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Application/Q10.StudentManagement.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Application/Q10.StudentManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Application/Q10.StudentManagement.Application.csproj",
+        "projectName": "Q10.StudentManagement.Application",
+        "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Application/Q10.StudentManagement.Application.csproj",
+        "packagesPath": "/Users/usuario/.nuget/packages/",
+        "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj": {
+                "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj"
+              },
+              "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
+                "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj",
+        "projectName": "Q10.StudentManagement.Domain",
+        "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/Q10.StudentManagement.Domain.csproj",
+        "packagesPath": "/Users/usuario/.nuget/packages/",
+        "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
+                "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj",
+        "projectName": "Q10.StudentManagement.Library",
+        "projectPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/Q10.StudentManagement.Library.csproj",
+        "packagesPath": "/Users/usuario/.nuget/packages/",
+        "outputPath": "/Users/usuario/Documents/Pruebas Tecnicas/q1o-prueba/Q10.StudentManagement/Q10.StudentManagement.Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0-preview.5.25277.114, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[10.0.0-preview.5.25277.114, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[10.0.0-preview.5.25277.114, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

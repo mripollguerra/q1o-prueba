@@ -1,0 +1,38 @@
+@model System.Collections.Generic.IEnumerable<Q10.StudentManagement.Domain.Subject.Subject>
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h1>Subjects</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Nuevo</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>Nombre</th>
+        <th>Codigo</th>
+        <th>Creditos</th>
+        <th>Acciones</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var subjects in Model)
+    {
+        <tr>
+            <td>@subjects.Name</td>
+            <td>@subjects.Code</td>
+            <td>@subjects.Credits</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@subjects.Id" class="btn btn-sm btn-warning">Editar</a>
+                <form asp-action="Delete" asp-route-id="@subjects.Id" method="post" style="display:inline">
+                    <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

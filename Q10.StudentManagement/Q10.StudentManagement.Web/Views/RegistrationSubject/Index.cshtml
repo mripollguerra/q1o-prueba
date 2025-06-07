@@ -1,0 +1,36 @@
+@model System.Collections.Generic.IEnumerable<Q10.StudentManagement.Domain.RegistrationSubject.RegistrationSubject>
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h1>Registration Subjects</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Asignar Materia</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>Estudiante</th>
+        <th>Numero de documento</th>
+        <th>Materia</th>
+        <th>Codigo</th>
+        <th>Creditos</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var registrationSubject in Model)
+    {
+        <tr>
+            <td>@registrationSubject.Student.FullName</td>
+            <td>@registrationSubject.Student.DocumentNumber</td>
+            <td>@registrationSubject.Subject.Name</td>
+            <td>@registrationSubject.Subject.Code</td>
+            <td>@registrationSubject.Subject.Credits</td>
+        </tr>
+    }
+    </tbody>
+</table>
+

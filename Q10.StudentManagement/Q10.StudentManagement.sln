@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10.StudentManagement.Library", "Q10.StudentManagement.Library\Q10.StudentManagement.Library.csproj", "{5977CD62-47D0-4763-93A4-DBC533CF9888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10.StudentManagement.Web", "Q10.StudentManagement.Web\Q10.StudentManagement.Web.csproj", "{1DF6B95A-7F64-44B7-BB4D-3A43B79DADEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10.StudentManagement.Application", "Q10.StudentManagement.Application\Q10.StudentManagement.Application.csproj", "{A2E92DB1-3E96-48C2-BCC3-536B1A689380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10.StudentManagement.Domain", "Q10.StudentManagement.Domain\Q10.StudentManagement.Domain.csproj", "{3D489354-323C-4071-923A-2E40EF6881CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10.StudentManagement.Infrastructure", "Q10.StudentManagement.Infrastructure\Q10.StudentManagement.Infrastructure.csproj", "{B974FF9D-2A0B-4264-95A0-18CD91F293D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5977CD62-47D0-4763-93A4-DBC533CF9888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5977CD62-47D0-4763-93A4-DBC533CF9888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5977CD62-47D0-4763-93A4-DBC533CF9888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5977CD62-47D0-4763-93A4-DBC533CF9888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF6B95A-7F64-44B7-BB4D-3A43B79DADEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF6B95A-7F64-44B7-BB4D-3A43B79DADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF6B95A-7F64-44B7-BB4D-3A43B79DADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF6B95A-7F64-44B7-BB4D-3A43B79DADEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E92DB1-3E96-48C2-BCC3-536B1A689380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E92DB1-3E96-48C2-BCC3-536B1A689380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E92DB1-3E96-48C2-BCC3-536B1A689380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E92DB1-3E96-48C2-BCC3-536B1A689380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D489354-323C-4071-923A-2E40EF6881CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D489354-323C-4071-923A-2E40EF6881CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D489354-323C-4071-923A-2E40EF6881CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D489354-323C-4071-923A-2E40EF6881CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B974FF9D-2A0B-4264-95A0-18CD91F293D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B974FF9D-2A0B-4264-95A0-18CD91F293D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B974FF9D-2A0B-4264-95A0-18CD91F293D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B974FF9D-2A0B-4264-95A0-18CD91F293D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

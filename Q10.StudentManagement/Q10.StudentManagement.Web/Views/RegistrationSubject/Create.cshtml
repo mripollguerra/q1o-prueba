@@ -1,0 +1,35 @@
+@model Q10.StudentManagement.Web.Models.RegistrationSubject.RegistrationSubjectRegistrationViewModel
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Registrar Materia</h2>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger mb-4" role="alert">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="StudentId" class="control-label">Estudiante</label>
+        <select asp-for="StudentId" asp-items="Model.Students" class="form-control">
+            <option value="">-- Selecciona un estudiante --</option>
+        </select>
+        <span asp-validation-for="StudentId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SubjectId" class="control-label">Materia</label>
+        <select asp-for="SubjectId" asp-items="Model.Subjects" class="form-control">
+            <option value="">-- Selecciona una materia --</option>
+        </select>
+        <span asp-validation-for="SubjectId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Registrar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

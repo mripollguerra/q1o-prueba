@@ -1,0 +1,38 @@
+@model dynamic
+
+@{
+    ViewBag.Title = "title";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4">Bienvenido a Q10 Student Management</h1>
+        <p class="lead mt-3">
+            Esta aplicación te permite gestionar estudiantes, materias y otros elementos académicos de forma sencilla y eficiente.
+        </p>
+    </div>
+
+    <hr class="my-4" />
+
+    <div class="row text-center">
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Estudiantes</h5>
+                    <p class="card-text">Crea, edita y gestiona el listado de estudiantes registrados en el sistema.</p>
+                    <a href="@Url.Action("Index", "Student")" class="btn btn-primary">Ir a Estudiantes</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mt-3 mt-md-0">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Materias</h5>
+                    <p class="card-text">Administra las materias, códigos y créditos disponibles en el sistema académico.</p>
+                    <a href="@Url.Action("Index", "Subject")" class="btn btn-primary">Ir a Materias</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

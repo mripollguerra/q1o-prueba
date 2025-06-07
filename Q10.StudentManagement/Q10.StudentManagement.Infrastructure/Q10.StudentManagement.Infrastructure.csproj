@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.7" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="8.0.7" />
+      <PackageReference Include="Microsoft.Extensions.Options" Version="10.0.0-preview.5.25277.114" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Q10.StudentManagement.Domain\Q10.StudentManagement.Domain.csproj" />
+      <ProjectReference Include="..\Q10.StudentManagement.Library\Q10.StudentManagement.Library.csproj" />
+    </ItemGroup>
+
+</Project>

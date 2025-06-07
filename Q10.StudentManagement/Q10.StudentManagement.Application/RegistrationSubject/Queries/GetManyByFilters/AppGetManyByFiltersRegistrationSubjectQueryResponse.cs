@@ -1,0 +1,3 @@
+namespace Q10.StudentManagement.Application.RegistrationSubject.Queries.GetManyByFilters;
+
+public record AppGetManyByFiltersRegistrationSubjectQueryResponse(IEnumerable<Domain.RegistrationSubject.RegistrationSubject> RegistrationSubjects);
